@@ -1,7 +1,7 @@
 # CircleCI Take Home
 
 -----------------
-**Wrote 3 test using Jest**
+**Wrote 3 tests using Jest**
 
     1. Renders the link inside the output area
     2. Renders a button inside the main area
